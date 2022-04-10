@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/modelclasses/Customer.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/ui/EditProduct.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/ui/Values.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/ui/Admin.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/ui/CustomerDashboard.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/ui/AddProduct.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/modelclasses/Product.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/ui/Login.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/ui/EditOrderCustomer.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/ui/AddOrderCustomer.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/modelclasses/Order.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/ui/AddCustomer.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/ui/AddOrder.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/ui/EditOrder.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/controller/Manager.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/ui/EditCustomer.java</file>
+            <file>file:/D:/NetbeansProjects/RetailOrderManagementSystem/src/modelclasses/OrderItem.java</file>
+        </group>
+    </open-files>
+</project-private>
